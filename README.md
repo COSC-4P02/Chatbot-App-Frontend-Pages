@@ -1,3 +1,3 @@
-# Chatbot-Ai App Promotion Page
+# Chatbot-Ai App Promotion Pages
 
 [Try it now](https://app.chatbot-ai.ga)
